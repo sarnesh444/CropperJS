@@ -3,7 +3,7 @@ Using the library cropper.js to crop an input image,a part of my OCR chrome exte
 
 ![alt text](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
 
-![alt text](https://assets.materialup.com/uploads/e8a9d553-f3f5-432f-a776-5cdf3e47432d/preview.png)
+![alt text](https://www.drupal.org/files/issues/2019-04-24/Screen%20Shot%202019-04-24%20at%2010.11.35.png)
 
 ## Objective:
 
